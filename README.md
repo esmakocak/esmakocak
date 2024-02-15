@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Esma Koçak</h1>
-<h4 align="left">Computer Engineering student</h4> 
 <h4 align="left">Currently working on Web and IOS Development</h4> 
   
-
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 - You can check out [my projects](https://esmakocak.github.io/my-portfolio/)
 
@@ -12,6 +9,8 @@
 - Relational Database [Certification](https://www.freecodecamp.org/certification/esma-kocak/responsive-web-design)
 
 - Reach me **esma.kocaakk20@gmail.com**
+
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 <p align="left">
 </p>
