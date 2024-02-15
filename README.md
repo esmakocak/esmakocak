@@ -11,7 +11,7 @@
 
 - Relational Database [Certification](https://www.freecodecamp.org/certification/esma-kocak/responsive-web-design)
 
-- - Reach me **esma.kocaakk20@gmail.com**
+- Reach me **esma.kocaakk20@gmail.com**
 
 <p align="left">
 </p>
