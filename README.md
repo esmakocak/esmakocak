@@ -5,7 +5,7 @@
 
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
-- You can check out my work here [https://esmakocak.github.io/my-portfolio/](https://esmakocak.github.io/my-portfolio/)
+- You can check out [my work](https://esmakocak.github.io/my-portfolio/)
 
 - Reach me **esma.kocaakk20@gmail.com**
 
