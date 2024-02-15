@@ -9,6 +9,10 @@
 
 - Reach me **esma.kocaakk20@gmail.com**
 
+- Responsive Web Design [Certification](https://www.freecodecamp.org/certification/esma-kocak/relational-database-v8)
+
+- Relational Database [Certification](https://www.freecodecamp.org/certification/esma-kocak/responsive-web-design) 
+
 <p align="left">
 </p>
 
