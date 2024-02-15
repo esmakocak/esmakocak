@@ -5,13 +5,13 @@
 
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
-- You can check out [my work](https://esmakocak.github.io/my-portfolio/)
-
-- Reach me **esma.kocaakk20@gmail.com**
+- You can check out [my projects](https://esmakocak.github.io/my-portfolio/)
 
 - Responsive Web Design [Certification](https://www.freecodecamp.org/certification/esma-kocak/relational-database-v8)
 
-- Relational Database [Certification](https://www.freecodecamp.org/certification/esma-kocak/responsive-web-design) 
+- Relational Database [Certification](https://www.freecodecamp.org/certification/esma-kocak/responsive-web-design)
+
+- - Reach me **esma.kocaakk20@gmail.com**
 
 <p align="left">
 </p>
