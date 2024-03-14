@@ -4,9 +4,9 @@
 
 - You can check out [my projects](https://esmakocak.github.io/my-portfolio/)
 
-- Responsive Web Design [Certification](https://www.freecodecamp.org/certification/esma-kocak/relational-database-v8)
+- Responsive Web Design [Certification](https://www.freecodecamp.org/certification/esma-kocak/responsive-web-design)
 
-- Relational Database [Certification](https://www.freecodecamp.org/certification/esma-kocak/responsive-web-design)
+- Relational Database [Certification](https://www.freecodecamp.org/certification/esma-kocak/relational-database-v8)
 
 - Reach me **esma.kocaakk20@gmail.com**
 
