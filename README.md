@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Esma Koçak</h1>
-<h4 align="left">Currently working on Web and IOS Development</h4> 
+<h4 align="left">Currently working on IOS Development</h4> 
   
 
 - You can check out [my projects](https://esmakocak.github.io/my-portfolio/)
