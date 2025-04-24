@@ -2,11 +2,7 @@
 <h4 align="left">Currently working on IOS Development</h4> 
   
 
-- You can check out [my projects](https://esmakocak.github.io/my-portfolio/)
-
-- Responsive Web Design [Certification](https://www.freecodecamp.org/certification/esma-kocak/responsive-web-design)
-
-- Relational Database [Certification](https://www.freecodecamp.org/certification/esma-kocak/relational-database-v8)
+- You can check out [my projects](https://github.com/esmakocak/SWIFT-PORTFOLIO)
 
 - Reach me **esma.kocaakk20@gmail.com**
 
