@@ -1,17 +1,51 @@
-<h1 align="left">Hi 👋, I'm Esma Koçak</h1>
-<h4 align="left">Currently working on IOS Development</h4> 
+<h1 align="left">Hi, I'm Esma Koçak ✨👩🏻‍💻</h1>
+<h4 align="left">Mobile Developer</h4> 
   
 
 - You can check out [my projects](https://github.com/esmakocak/SWIFT-PORTFOLIO)
 
 - Reach me **esma.kocaakk20@gmail.com**
 
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esmakocak&show_icons=true&title_color=000000&locale=en&layout=compact" alt="esmakocak" /></p>
-
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/esmakocak/Pixetta">
+        <img src="https://github.com/user-attachments/assets/5fba328b-034f-4a5b-9450-1cbc993b6dcc" width="180" alt="Pixetta" />
+        <br><sub><b>Pixetta</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esmakocak/Chrono">
+        <img src="https://github.com/user-attachments/assets/2a8a254d-1a6a-4e0c-8d99-e5b54c3d229e" width="180" alt="Chrono" />
+        <br><sub><b>Chrono</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esmakocak/Boothie">
+        <img src="https://github.com/user-attachments/assets/3e7e7adf-f0ab-490e-8a44-3ab2e8e5ea2e" width="180" alt="Boothie" />
+        <br><sub><b>Boothie</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/esmakocak/LifeBoard">
+        <img src="https://github.com/user-attachments/assets/a8abd7ca-63dc-48be-8645-4d0487c35713" width="180" alt="LifeBoard" />
+        <br><sub><b>LifeBoard</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esmakocak/FocusPower">
+        <img src="https://github.com/user-attachments/assets/8961d0d8-be49-46d5-8427-cf256affcc98" width="180" alt="FocusPower" />
+        <br><sub><b>FocusPower</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esmakocak/RecipeBox">
+        <img src="https://github.com/user-attachments/assets/de928659-030f-4b41-8699-79a73a40a421" width="180" alt="RecipeBox" />
+        <br><sub><b>RecipeBox</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
