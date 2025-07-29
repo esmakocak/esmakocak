@@ -6,7 +6,7 @@
 
 - Reach me **esma.kocaakk20@gmail.com**
 
-
+### 📱 Mobile Projects 
 <table>
   <tr>
     <td align="center">
@@ -46,6 +46,47 @@
         <img src="https://github.com/user-attachments/assets/de928659-030f-4b41-8699-79a73a40a421" width="180" alt="RecipeBox" />
         <br><sub><b>RecipeBox</b></sub>
       </a>
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
+### ☕️ Blog Posts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://medium.com/@esma.kocaakk20/swiftui-property-wrappers-a-practical-guide-8d032c50ce5c">
+        <img src="https://github.com/user-attachments/assets/984d9617-e7cd-47fc-863f-7b47966db9cb" width="140" alt="Property Wrappers" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@esma.kocaakk20/unit-testing-in-swift-a-simple-introduction-216850a2e9e4">
+        <img src="https://github.com/user-attachments/assets/050a1261-6243-46db-a854-0373227a0971" width="140" alt="Unit Testing" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@esma.kocaakk20/dependency-injection-in-swift-16902986b514">
+        <img src="https://github.com/user-attachments/assets/481910e1-3966-4fa2-9898-a208135ed544" width="140" alt="Dependency Injection" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://medium.com/@esma.kocaakk20/swift-closures-escaping-a32fb5bccf6f">
+        <img src="https://github.com/user-attachments/assets/aeb4bd4d-8084-4714-a1a6-a1a10a3becc5" width="140" alt="Escaping Closures" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@esma.kocaakk20/swift-optionals-path-to-error-free-code-1464e35283d7">
+        <img src="https://github.com/user-attachments/assets/0f30d824-4641-46ee-b58c-57205b8922a6" width="140" alt="Optionals" />
+      </a>
+    </td>
+    <td align="center">
+      <!-- Boş kutu (şimdilik 5 yazı var) -->
     </td>
   </tr>
 </table>
