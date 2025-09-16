@@ -9,6 +9,12 @@
 ### 📱 Mobile Projects 
 <table>
   <tr>
+      <td align="center">
+      <a href="https://apps.apple.com/ca/app/poddigest-podcast-summarizer/id6751149685?platform=iphone">
+        <img src="https://github.com/user-attachments/assets/f25c26e2-ee24-4153-a407-09bc4d0ccb03" width="180" alt="RecipeBox" />
+        <br><sub><b>RecipeBox</b></sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/esmakocak/Pixetta">
         <img src="https://github.com/user-attachments/assets/5fba328b-034f-4a5b-9450-1cbc993b6dcc" width="180" alt="Pixetta" />
@@ -39,12 +45,6 @@
       <a href="https://github.com/esmakocak/FocusPower">
         <img src="https://github.com/user-attachments/assets/8961d0d8-be49-46d5-8427-cf256affcc98" width="180" alt="FocusPower" />
         <br><sub><b>FocusPower</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/esmakocak/RecipeBox">
-        <img src="https://github.com/user-attachments/assets/de928659-030f-4b41-8699-79a73a40a421" width="180" alt="RecipeBox" />
-        <br><sub><b>RecipeBox</b></sub>
       </a>
     </td>
   </tr>
