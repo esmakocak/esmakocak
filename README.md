@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/esmakocak/Pixetta">
+      <a href="https://github.com/esmakocak/SWIFT-PORTFOLIO/blob/main/README.md#-pixetta">
         <img src="https://github.com/user-attachments/assets/5fba328b-034f-4a5b-9450-1cbc993b6dcc" width="180" alt="Pixetta" />
         <br><sub><b>Pixetta</b></sub>
       </a>
