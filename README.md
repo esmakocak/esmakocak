@@ -9,7 +9,7 @@
 ### 📱 Mobile Projects 
 <table>
   <tr>
-    <td align="center">
+      <td align="center">
       <a href="https://github.com/esmakocak/SWIFT-PORTFOLIO/blob/main/README.md#-pixetta">
         <img src="https://github.com/user-attachments/assets/5fba328b-034f-4a5b-9450-1cbc993b6dcc" width="180" alt="Pixetta" />
         <br><sub><b>Pixetta</b></sub>
@@ -42,14 +42,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/esmakocak/RecipeBox">
-        <img src="https://github.com/user-attachments/assets/de928659-030f-4b41-8699-79a73a40a421" width="180" alt="RecipeBox" />
-        <br><sub><b>RecipeBox</b></sub>
+      <a href="https://apps.apple.com/ca/app/poddigest-podcast-summarizer/id6751149685?platform=iphone">
+        <img src="https://github.com/user-attachments/assets/84b3f87d-bda3-48bf-95dc-3c29657ec17c" width="180" alt="RecipeBox" />
+        <br><sub><b>Poddigest</b></sub>
       </a>
     </td>
   </tr>
 </table>
-
 
 
 ---
