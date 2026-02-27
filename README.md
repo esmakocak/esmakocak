@@ -2,7 +2,7 @@
 <h4 align="left">Mobile Developer</h4> 
   
 
-- You can check out [my projects](https://github.com/esmakocak/SWIFT-PORTFOLIO)
+- You can check out [my portfolio](https://esmakocak.vercel.app/))
 
 - Reach me **esma.kocaakk20@gmail.com**
 
